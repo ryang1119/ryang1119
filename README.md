@@ -1,10 +1,10 @@
 ## 👋 Hi! I'm Ryang Heo
 
-🎓 Education
+🎓 **Education**
 - B.S.: Computer Science, Yonsei University
 - M.S./Ph.D.: Artificial Intelligence, Yonsei University (in progress)
 
-🔬 Research Interests
+🔬 **Research Interests**
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 - Sentiment Analysis
