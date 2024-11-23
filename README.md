@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi! I'm [Ryang Heo]
 
-<!--
-**ryang1119/ryang1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Ryang Heo], currently studing NLP in Yonsei University, where I also earned my B.S. in Computer Science. My academic journey is fueled by a passion for exploring innovative solutions in the field of AI.
 
-Here are some ideas to get you started:
+🎓 
+- B.S. Computer Science, Yonsei University
+- M.S./Ph.D. Artificial Intelligence, Yonsei University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests
+
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Sentiment Analysis
+
+---
