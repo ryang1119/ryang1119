@@ -7,6 +7,6 @@
 🔬 **Research Interests**
 - Natural Language Processing (NLP)
 - Large Language Models (LLMs)
-- Sentiment Analysis
+- Sentiment Analysis & Opinion Mining
 
 ---
